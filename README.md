@@ -15,7 +15,7 @@ Understanding that our customers have diverse shopping preferences, we've incorp
 Amazon
 Etsy
 eBay
-This ensures that wherever you are, whichever platform you prefer, RealJapaneseGreenTea.com is there to serve you.
+This ensures that wherever you are, whichever platform you prefer, Real Japanese Green Tea is there to serve you. (via our messages on the app and advertising)
 
 Development Roadmap
 We're in the early stages of this app's development, and we're excited about the features we plan to roll out. Here's a sneak peek into what's coming:
