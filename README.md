@@ -28,7 +28,7 @@ Contribute
 We welcome feedback, suggestions, and contributions. If you're a developer interested in contributing to our project, please check out our CONTRIBUTING.md file (coming soon).
 
 Stay Updated
-For the latest updates on our app's development and new tea arrivals, visit RealJapaneseGreenTea.com.
+For the latest updates on our app's development and new tea arrivals, visit [Real Japanese Green Tea](RealJapaneseGreenTea.com).
 
 Our socials to follow + this is public so for those who want to critic us please feel free to do so!
 - [YouTube](https://www.youtube.com/@RealJapaneseGreenTea)
