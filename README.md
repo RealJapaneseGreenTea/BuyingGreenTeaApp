@@ -1,9 +1,9 @@
 # BuyingGreenTeaApp
-RealJapaneseGreenTea.com Mobile App
+Real Japanese Green Tea Mobile App
 Welcome to the official repository for the RealJapaneseGreenTea.com mobile application. Our mission is to bring the authentic taste and culture of Japanese green tea to enthusiasts worldwide. With this app, we aim to simplify and enhance the tea-buying experience for our customers.
 
-About RealJapaneseGreenTea.com
-RealJapaneseGreenTea.com is dedicated to sourcing and delivering the finest green teas from Japan. Our commitment to quality ensures that every sip you take transports you to the serene tea gardens of Japan, offering a moment of tranquility and connection to nature.
+About Real Japanese Green Tea
+Real Japanese Green Tea is dedicated to sourcing and delivering the finest green teas from Japan. Our commitment to quality ensures that every sip you take transports you to the serene tea gardens of Japan, offering a moment of tranquility and connection to nature.
 
 Mobile App Features
 Seamless Integration with WooCommerce
